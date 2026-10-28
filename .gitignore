@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Build intermediates (site/index.html is committed on purpose)
+data.json
+*.docx
+~$*
