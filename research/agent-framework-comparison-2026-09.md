@@ -2,6 +2,8 @@
 
 原有对象核验：2026-09-15；Claude Agent SDK 与 DeepSeek Harness 增补核验：2026-09-16。重点对象：LangChain、LangGraph、AgentScope Python 2.x、Spring AI Alibaba；新增 Claude Agent SDK、DeepSeek Harness；补充 AgentScope Java 与其他候选。面向企业 AI 能力平台架构师及高级开发人员。
 
+> 交互版（可检索、可离线阅读）：[`site/research.html`](../site/research.html) · [在线阅读](https://hansenup.github.io/enterprise-agent-guide/research.html)
+
 本文依据官方文档、仓库与发布记录进行案头调研。没有执行各候选同条件性能测试；“优先评估”“适合”等属于基于架构边界的建议，不代表已验证的性能排名。动态文档、开发分支和稳定发行版分别对待，文档支持不等于目标版本已经具备全部能力。
 
 ## 01 选型结论

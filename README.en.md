@@ -19,7 +19,7 @@ Sources were checked on 2026-09-11 and spot-checked again in October 2026. Proto
 - Interactive: open [`site/index.html`](site/index.html) in a browser, or visit <https://hansenup.github.io/enterprise-agent-guide/>.
 - Markdown: start at [`guide/README.md`](guide/README.md).
 - Interview handbook: [`site/handbook.html`](site/handbook.html) ([online](https://hansenup.github.io/enterprise-agent-guide/handbook.html)), 100 questions on agent frameworks and the Python stack. It reflects framework versions and APIs as of 2026-09; check the official docs before relying on it.
-- Framework comparison (LangChain, LangGraph, AgentScope, Spring AI Alibaba, Claude Agent SDK, DeepSeek Harness): [`research/`](research/).
+- Framework comparison (LangChain, LangGraph, AgentScope, Spring AI Alibaba, Claude Agent SDK, DeepSeek Harness): [`site/research.html`](site/research.html) ([online](https://hansenup.github.io/enterprise-agent-guide/research.html)) or the Markdown source in [`research/`](research/).
 
 ## Build
 

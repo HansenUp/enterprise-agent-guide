@@ -24,7 +24,7 @@
 | 在线交互版 | <https://hansenup.github.io/enterprise-agent-guide/> |
 | 本地交互版 | 用浏览器直接打开 [`site/index.html`](site/index.html) |
 | Markdown 原文 | [`guide/README.md`](guide/README.md)（目录） |
-| 框架调研报告 | [`research/agent-framework-comparison-2026-09.md`](research/agent-framework-comparison-2026-09.md)：LangChain、LangGraph、AgentScope、Spring AI Alibaba、Claude Agent SDK、DeepSeek Harness 对比 |
+| 框架调研报告 | [`site/research.html`](site/research.html)（[在线](https://hansenup.github.io/enterprise-agent-guide/research.html)，[Markdown](research/agent-framework-comparison-2026-09.md)）：LangChain、LangGraph、AgentScope、Spring AI Alibaba、Claude Agent SDK、DeepSeek Harness 对比 |
 | 学习面试手册 | [`site/handbook.html`](site/handbook.html)（[在线](https://hansenup.github.io/enterprise-agent-guide/handbook.html)）：Agent 框架与 Python 技术栈学习面试手册，100 题。其中的框架版本与 API 反映截至 2026-09 的状态，使用前请以官方最新文档为准 |
 
 建议路线：先通读第 1–3 章，再按问题查第 4–21 章；做平台方案时看第 22–37 章。
@@ -36,7 +36,7 @@ guide/       指南 Markdown 源文件（guide/README.md 决定章节顺序）
 data/        面试题（interview.json）和概念搜索别名（term_aliases.json）
 research/    框架调研对比报告
 tools/       交互版生成脚本与 HTML 模板
-site/        生成的交互版（index.html）和学习手册（handbook.html）
+site/        生成的交互版（index.html）、框架调研报告（research.html）和学习手册（handbook.html）
 .github/     GitHub Pages 部署工作流
 ```
 
